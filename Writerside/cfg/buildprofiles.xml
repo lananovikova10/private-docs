@@ -9,5 +9,10 @@
             <primary-color>forest</primary-color>
         </variables>
     </build-profile>
+    <variables>
+        <algolia-api-key>ac9df245bbc9e236e7e54d530b0f7dd2</algolia-api-key>
+        <algolia-id>V6MS25BRYB</algolia-id>
+        <algolia-index>prod_gh_private</algolia-index>
+    </variables>
 
 </buildprofiles>
