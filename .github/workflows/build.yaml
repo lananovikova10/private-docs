@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/lw'
+  INSTANCE: 'lightwave/lw'
   ARTIFACT: 'webHelpLW2-all.zip'
   DOCKER_VERSION: '241.16003'
   ALGOLIA_ARTIFACT: 'algolia-indexes-LW.zip'
@@ -30,7 +30,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Build docs using Writerside Docker builder
+      - name: Build docs using lightwave Docker builder
         uses: JetBrains/writerside-github-action@v4
         with:
           instance: ${{ env.INSTANCE }}
