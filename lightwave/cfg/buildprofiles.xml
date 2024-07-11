@@ -3,9 +3,9 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <algolia-id>M6RNUNJ6QR</algolia-id>
-        <algolia-index>writerside-LightWave</algolia-index>
-        <algolia-api-key>34b66dcb985f933459ce66fc7cf82d33</algolia-api-key>
+        <algolia-id>V6MS25BRYB</algolia-id>
+        <algolia-index>prod_gh_private</algolia-index>
+        <algolia-api-key>ac9df245bbc9e236e7e54d530b0f7dd2</algolia-api-key>
     </variables>
     <build-profile instance="2in">
         <variables>
