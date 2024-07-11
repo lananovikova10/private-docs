@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <build-profile instance="lw">
+    <variables>
+        <custom-favicons>logo-blue-outline_1000.svg</custom-favicons>
+        <algolia-id>M6RNUNJ6QR</algolia-id>
+        <algolia-index>writerside-LightWave</algolia-index>
+        <algolia-api-key>34b66dcb985f933459ce66fc7cf82d33</algolia-api-key>
+    </variables>
+    <build-profile instance="2in">
         <variables>
             <noindex-content>true</noindex-content>
-            <primary-color>forest</primary-color>
         </variables>
     </build-profile>
-    <variables>
-        <algolia-api-key>ac9df245bbc9e236e7e54d530b0f7dd2</algolia-api-key>
-        <algolia-id>V6MS25BRYB</algolia-id>
-        <algolia-index>prod_gh_private</algolia-index>
-    </variables>
+    <build-profile instance="l3">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="lw">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="in">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>
