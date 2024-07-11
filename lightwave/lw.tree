@@ -7,5 +7,6 @@
 
           <toc-element topic="LightWave-2024.md">
               <toc-element topic="New-to-2024.md"/>
+              <toc-element topic="Procedural-Geometry-nodes.md"/>
           </toc-element>
 </instance-profile>
