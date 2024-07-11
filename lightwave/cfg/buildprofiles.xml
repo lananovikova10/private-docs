@@ -3,7 +3,6 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <custom-favicons>logo-blue-outline_1000.svg</custom-favicons>
         <algolia-id>M6RNUNJ6QR</algolia-id>
         <algolia-index>writerside-LightWave</algolia-index>
         <algolia-api-key>34b66dcb985f933459ce66fc7cf82d33</algolia-api-key>

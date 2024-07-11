@@ -38,4 +38,133 @@
         <description>Created after removal of "notes" from LightWave 3D</description>
         <accepts>notes.html</accepts>
     </rule>
+    <rule id="682b7d22">
+        <description>Created after removal of "Node Reference" from LightWave 3D</description>
+        <accepts>Node-Reference.html</accepts>
+    </rule>
+    <rule id="28f777a2">
+        <description>Created after removal of "Examples" from LightWave 3D</description>
+        <accepts>Examples.html</accepts>
+    </rule>
+    <rule id="7dae8f23">
+        <description>Created after removal of "New to Octane 2024" from LightWave 3D</description>
+        <accepts>New-to-Octane-2024.html</accepts>
+    </rule>
+    <rule id="1139165b">
+        <description>Created after removal of "Frames" from LightWave 3D</description>
+        <accepts>Frames.html</accepts>
+    </rule>
+    <rule id="9927411">
+        <description>Created after removal of "A quick guide to workflow with TurbulenceFD" from LightWave 3D
+        </description>
+        <accepts>A-quick-guide-to-workflow-with-TurbulenceFD.html</accepts>
+    </rule>
+    <rule id="63f713f">
+        <description>Created after removal of "Fluid Emitters Panel" from LightWave 3D</description>
+        <accepts>Fluid-emitter-tabs.html</accepts>
+    </rule>
+    <rule id="16f66a0e">
+        <description>Created after removal of "Container Panel" from LightWave 3D</description>
+        <accepts>Container-Tabs.html</accepts>
+    </rule>
+    <rule id="1bae5b32">
+        <description>Created after removal of "F-Curve - Fluid Curve Editor" from LightWave 3D</description>
+        <accepts>F-Curves.html</accepts>
+    </rule>
+    <rule id="7c96140b">
+        <description>Created after removal of "Tweaking Performance" from LightWave 3D</description>
+        <accepts>Tweaking-Performance.html</accepts>
+    </rule>
+    <rule id="5735bfb0">
+        <description>Created after removal of "HiDPI display support" from LightWave 3D</description>
+        <accepts>HiDPI-display-support.html</accepts>
+    </rule>
+    <rule id="4da48f6b">
+        <description>Created after removal of "User Interface Conventions" from LightWave 3D</description>
+        <accepts>User-Interface-Conventions.html</accepts>
+    </rule>
+    <rule id="43219c5f">
+        <description>Created after removal of "Glossary" from LightWave 3D</description>
+        <accepts>Glossary.html</accepts>
+    </rule>
+    <rule id="705bfdf0">
+        <description>Created after removal of "Object Properties" from LightWave 3D</description>
+        <accepts>Object-Properties.html</accepts>
+    </rule>
+    <rule id="17cda718">
+        <description>Created after removal of "Mesh - Edges" from LightWave 3D</description>
+        <accepts>Mesh-Edges.html</accepts>
+    </rule>
+    <rule id="5ff65668">
+        <description>Created after removal of "Overview of Interface" from LightWave 3D</description>
+        <accepts>Overview-of-Interface.html</accepts>
+    </rule>
+    <rule id="62d4d298">
+        <description>Created after removal of "Menus" from LightWave 3D</description>
+        <accepts>Menus.html</accepts>
+    </rule>
+    <rule id="76413819">
+        <description>Created after removal of "Examples" from LightWave 3D</description>
+        <accepts>CS-Examples.html</accepts>
+    </rule>
+    <rule id="6c8f23d3">
+        <description>Created after removal of "Flow" from LightWave 3D</description>
+        <accepts>Flow.html</accepts>
+    </rule>
+    <rule id="6b2c21c1">
+        <description>Created after removal of "RHiggit!" from LightWave 3D</description>
+        <accepts>RHiggit.html</accepts>
+    </rule>
+    <rule id="1dc55276">
+        <description>Created after removal of "Procedural Geometry" from LightWave 3D</description>
+        <accepts>Procedural-Geometry-nodes.html</accepts>
+    </rule>
+    <rule id="34719d2b">
+        <description>Created after removal of "Octane" from LightWave 3D</description>
+        <accepts>Getting-started-with-Octane.html</accepts>
+    </rule>
+    <rule id="1ca154a4">
+        <description>Created after removal of "Preferences" from LightWave 3D</description>
+        <accepts>Preferences.html</accepts>
+    </rule>
+    <rule id="6167a69f">
+        <description>Created after removal of "Node editor updates" from LightWave 3D</description>
+        <accepts>Node-editor-updates.html</accepts>
+    </rule>
+    <rule id="5e36a077">
+        <description>Created after removal of "Weight Brush" from LightWave 3D</description>
+        <accepts>Weight-brush.html</accepts>
+    </rule>
+    <rule id="23bf2376">
+        <description>Created after removal of "Turbulence FD" from LightWave 3D</description>
+        <accepts>Turbulence-FD.html</accepts>
+    </rule>
+    <rule id="314f1a20">
+        <description>Created after removal of "Instancer Brush" from LightWave 3D</description>
+        <accepts>Instancer-Brush.html</accepts>
+    </rule>
+    <rule id="6ba51e15">
+        <description>Created after removal of "Unreal Bridge" from LightWave 3D</description>
+        <accepts>Unreal-bridge.html</accepts>
+    </rule>
+    <rule id="2258957f">
+        <description>Created after removal of "LightWave Pro Tools" from LightWave 3D</description>
+        <accepts>LightWave-Pro-Tools.html</accepts>
+    </rule>
+    <rule id="7539a40c">
+        <description>Created after removal of "Text Generator" from LightWave 3D</description>
+        <accepts>Text-Generator.html</accepts>
+    </rule>
+    <rule id="32432d8f">
+        <description>Created after removal of "OpenVDB V11.0" from LightWave 3D</description>
+        <accepts>OpenVDB.html</accepts>
+    </rule>
+    <rule id="53e4bf40">
+        <description>Created after removal of "Pre-2024 documentation" from LightWave 3D</description>
+        <accepts>Pre-2024-documentation.html</accepts>
+    </rule>
+    <rule id="c175e25">
+        <description>Created after removal of "ChronoSculpt" from LightWave 3D</description>
+        <accepts>ChronoSculpt.html</accepts>
+    </rule>
 </rules>
